@@ -1,0 +1,26 @@
+nav {
+    background-color: skyblue;
+    margin: 0px;
+    padding: 0px;;
+}
+
+nav img {
+    width: 70px;
+}
+
+ul {
+    padding: 0px;
+    /* float: right; */
+    list-style-type: none;
+} 
+
+ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+li a{
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}

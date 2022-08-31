@@ -1,0 +1,14 @@
+.container {
+    /* : 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+form {
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    /* display: inline-block; */
+}
